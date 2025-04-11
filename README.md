@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pmca96
 - 👀 I’m interested in Go , GRPC, MicroServices, ProtoBuffers, C#, .NET, SQL and NOSQL DBs, NodeJS, JavaScript, Electron, Sockets, Docker (obviously)
-- 🌱 I’m currently learning Go , GRPC, ProtoBuffers , CI/CD  and Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on email: pedromca96@gmail.com
 
